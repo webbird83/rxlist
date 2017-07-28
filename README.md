@@ -1,5 +1,5 @@
 # rxlist
-[![](https://jitpack.io/v/s0nerik/rxlist.svg)](https://jitpack.io/#s0nerik/rxlist)
+[![](https://jitpack.io/v/webbird8/rxlist.svg)](https://jitpack.io/#webbird83/rxlist)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-rxlist-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/3865)
 
 Reactive List implementation using RxJava.
@@ -55,13 +55,14 @@ allprojects {
 ```
 - Add this to your app's `build.gradle`:
 ```gradle
-compile 'com.github.s0nerik:rxlist:{latest version}'
+compile 'com.github.webbird83:rxlist:{latest version}'
 ```
 
 ### License
 
 ```
 Copyright 2016 Alex Isaienko (s0nerik)
+Copyright 2017 Sebastian Vogel (webbird83)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

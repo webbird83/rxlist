@@ -5,8 +5,8 @@ repositories {
     jcenter()
 }
 
-group='com.github.s0nerik'
+group='com.github.webbird83'
 
 dependencies {
-    compile 'io.reactivex:rxjava:1.1.6'
+    compile 'io.reactivex.rxjava2:rxjava:2.1.0'
 }
